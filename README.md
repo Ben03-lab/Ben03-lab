@@ -1,174 +1,163 @@
 # 👋 Hi, I'm Benvindo Kiazayamoko
 
-## Cybersecurity Professional | CompTIA Security+ | Enterprise Homelab Builder
+## Cybersecurity Professional | CompTIA Security+ | Enterprise IT Homelab Builder
 
-I'm passionate about enterprise IT infrastructure, system administration, networking, and cybersecurity. My GitHub portfolio showcases hands-on projects that simulate real-world enterprise environments using Windows Server, Active Directory, VMware, and security technologies.
+I am a cybersecurity professional with an Associate Degree in Cybersecurity Investigation and I am currently completing my Bachelor's degree in Cybersecurity.
 
----
-
-# 🎓 Education
-
-- Bachelor of Science in Cybersecurity *(In Progress)*
-- Associate Degree in Cybersecurity Investigation
+I enjoy designing, building, and documenting enterprise IT infrastructures that simulate real-world environments. My goal is to combine system administration, networking, and cybersecurity into practical projects that demonstrate technical skills used in modern IT organizations.
 
 ---
 
-# 🏆 Certification
+# 🚀 About Me
 
-- CompTIA Security+
+- 🎓 Bachelor's in Cybersecurity (In Progress)
+- 🎓 Associate Degree in Cybersecurity Investigation
+- ✅ CompTIA Security+ Certified
+- 💻 Enterprise Windows Administration
+- 🌐 Active Directory & Group Policy
+- 🖥 Windows Server Administration
+- 🔐 Cybersecurity & Defensive Security
+- 🧪 Enterprise Homelab Development
 
 ---
 
-# 💻 Technical Skills
+# 🛠 Technical Skills
 
-### Operating Systems
-
+### Windows Administration
 - Windows Server 2022
 - Windows 11
-- Ubuntu Linux
-- Kali Linux
-
-### Infrastructure
-
 - Active Directory
 - Organizational Units
 - Group Policy
-- DNS
-- DHCP
-- File Services
+- User & Group Administration
 - NTFS Permissions
-- Network Shares
-- Printer Deployment
-- Remote Desktop
-
-### Virtualization
-
-- VMware Workstation Pro
-- Enterprise Virtual Labs
-- Windows Administration
+- File Services
+- DFS Concepts
+- Print Services
 
 ### Networking
 
 - TCP/IP
-- Enterprise Network Segmentation
-- Firewall Configuration
+- DNS
+- DHCP
+- VLAN Concepts
+- Network Troubleshooting
+- pfSense
 - OPNsense
+- Enterprise Network Design
+
+### Virtualization
+
+- VMware Workstation Pro
+- Virtual Machine Deployment
+- Virtual Networking
+- Snapshots
+- Resource Management
 
 ### Cybersecurity
 
-- Security Monitoring
-- Intrusion Detection
+- Wazuh SIEM
+- Nessus
+- Security Onion
+- Kali Linux
+- Metasploitable
+- DVWA
+- OWASP Top 10
 - Vulnerability Assessment
-- Windows Security Hardening
-- Enterprise Security Best Practices
 
 ### Tools
 
-- PowerShell
 - Git
 - GitHub
-- Visual Studio Code
+- PowerShell
+- Linux
 - LibreOffice
+- Visual Studio Code
 
 ---
 
-# 🖥 Enterprise Homelab
+# 🏠 Enterprise Homelab
 
-I built a multi-server enterprise homelab to practice real-world IT administration and cybersecurity skills.
+My enterprise homelab is designed to simulate a real corporate environment where I practice system administration, networking, security monitoring, troubleshooting, and help desk operations.
 
-Current technologies include:
+Current infrastructure includes:
 
-- Active Directory
-- Windows Server
-- VMware
-- DNS
-- DHCP
-- Group Policy
+- Windows Server 2022 Domain Controller
+- Enterprise Active Directory Domain
+- Windows 11 Workstations
 - File Server
-- OPNsense Firewall
-- Enterprise Networking
+- Application Server
+- pfSense Firewall
+- Wazuh SIEM
+- Nessus Vulnerability Scanner
+- Security Onion
+- Ubuntu Servers
+- Kali Linux
+- DVWA
+- Juice Shop
+- Metasploitable
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏢 Enterprise Active Directory Lab
-
-Enterprise deployment featuring:
-
-- Organizational Units
-- User & Group Management
-- Group Policy
-- DNS
-- DHCP
-- File Services
-
----
+# 📂 Featured Projects
 
 ## 🖥 Enterprise Help Desk Lab
 
-Thirty real-world Help Desk scenarios covering:
+A complete enterprise help desk simulation consisting of 30 real-world support tickets covering:
 
-- Active Directory Administration
-- Group Policy
+- Active Directory
 - DNS
 - DHCP
-- File Server Management
-- Windows Troubleshooting
-- Printer Deployment
+- Group Policy
 - Remote Desktop
-- Windows Services
+- File Services
+- Printer Deployment
+- Windows Troubleshooting
+- Windows Administration
 
 ---
 
-## 🌐 Enterprise Network Segmentation
+## 🏢 Active Directory Enterprise Lab
 
-Firewall implementation using OPNsense featuring:
+Designed and implemented a complete Windows Server enterprise environment including:
 
-- Network Segmentation
+- Organizational Units
+- Users & Groups
+- Group Policy
+- Folder Redirection
+- Printer Deployment
+- Software Deployment
+- Enterprise File Shares
+
+---
+
+## 🌐 Enterprise Network Infrastructure
+
+Enterprise network built using:
+
+- pfSense
+- VLAN concepts
 - Firewall Rules
-- Secure Enterprise Design
+- DHCP
+- DNS
+- Routing
 
 ---
 
-## 🛡 Network Monitoring & Intrusion Detection
+# 🎯 Current Goals
 
-Enterprise monitoring environment focused on:
-
-- Network Traffic Analysis
-- Intrusion Detection
-- Defensive Security
-
----
-
-## 🔐 Windows Virtualization Security Lab
-
-Enterprise Windows security environment demonstrating:
-
-- Windows Hardening
-- Virtual Infrastructure
-- Administrative Security
-
----
-
-# 📚 Currently Learning
-
-- Windows Server Administration
-- Linux Administration
-- PowerShell Automation
-- Wazuh SIEM
-- Security Onion
-- Nessus
-- Incident Response
-- Enterprise Cybersecurity
+- Complete Bachelor's Degree in Cybersecurity
+- Continue expanding my Enterprise Homelab
+- Build advanced cybersecurity projects
+- Obtain additional industry certifications
+- Begin my career in IT System Administration and Cybersecurity
 
 ---
 
 # 📫 Connect With Me
 
 - GitHub: https://github.com/Ben03-lab
-
-*(LinkedIn will be added soon.)*
+- LinkedIn: *(Coming Soon)*
 
 ---
 
